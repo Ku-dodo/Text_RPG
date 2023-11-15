@@ -19,4 +19,4 @@ ___
 ### Class Player
 ___
 - 장비 능력치 반영 EquipmentStat()
-<img width="80%" src="https://github.com/Ku-dodo/Text_RPG/assets/105593231/a901bf88-14be-4a26-bffe-08e7da6d23ea"/>
+<img src="https://github.com/Ku-dodo/Text_RPG/assets/105593231/ed8ac28d-a4a7-4ac9-9977-d3575ecc26e3"/>
